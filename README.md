@@ -43,11 +43,7 @@ Here is a table with some sports that you should try, why you should try them, a
 
 ## Code Fencing
 
-> "How exactly, with a .htaccess file i'm presuming, would i redirect people from this URL:<br>  http://blog.twostepmedia.co.uk/win-traffic-with-charlie-sheen-and-the-yahoo-boss-api/ to<br> something like http://www.twostepmedia.co.uk/blog<br> win-traffic-with-charlie-sheen-and-the-yahoo-boss-api/<br>
-<br>
-> Thanks :)"
-
-<br>
+> "How exactly, with a .htaccess file i'm presuming, would i redirect people from this URL:<br>  http://blog.twostepmedia.co.uk/win-traffic-with-charlie-sheen-and-the-yahoo-boss-api/ to<br> something like http://www.twostepmedia.co.uk/blog<br> win-traffic-with-charlie-sheen-and-the-yahoo-boss-api/"<br>
 
 [stack overflow question](https://stackoverflow.com/questions/5549117/htaccess-redirect)
 
