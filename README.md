@@ -24,7 +24,7 @@ and the **town** and **beaches** are beautiful.
 
 ## Sports Table
 
-Here is a table with some sports that you should try, why you should try them, and how much time they take up!
+Here is a table with some sports that you should try, why you should try them, and how much time they take up!<br>
 
 | Sports | | Reasons | | Time |
 | --- | | --- | | ---: |
