@@ -31,3 +31,10 @@ Here is a table with some sports that you should try, why you should try them, a
 | Golf | Very fun and relaxing | 3-6 hours |
 | Baseball | Americas Pastime | 4 hours |
 | Cricket | To diversify yourself in other cultures | 2 hours |
+
+----
+
+## Scientist Quotes
+
+> "We build too many walls and not enough bridges" - *Sir Issac Newton*
+> "Mathematics is the language with which God has written the universe" - *Galileo*
