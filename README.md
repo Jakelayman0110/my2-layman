@@ -14,3 +14,7 @@ and the **town** and **beaches** are beautiful.
 2. Get really good food
 3. Relax
 
+- royal reds shrimp
+- flounder
+- fried green tomatoes
+
