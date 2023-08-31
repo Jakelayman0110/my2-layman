@@ -18,3 +18,4 @@ and the **town** and **beaches** are beautiful.
 - flounder
 - fried green tomatoes
 
+[Check Me Out!](MyStats.md)
